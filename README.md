@@ -1,4 +1,4 @@
-**Formação Data Science - dados e visualizações**
+**Formação Data Science**
 
 Dando mais um passo em busca do conhecimento na área e aprendendo sobre como os dados podem ser úteis para o trabalho do dia a dia e como extrair o máximo deste recurso!
 
@@ -14,7 +14,7 @@ Introdução
 
 Preparando ambiente
 
-Arquivos do projeto
+Arquivos do projeto - "Os arquivos (dataset podem ser baixados nesse link: https://github.com/alura-cursos/introducao-a-data-science/tree/aula0 "
 
 Conhecendo nossos dados e o Pandas
 
