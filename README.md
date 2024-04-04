@@ -14,7 +14,7 @@ Um dos focos será na utilização da biblioteca Pandas, uma das ferramentas mai
 
 * Preparando ambiente
 
-* Arquivos do projeto - "Os arquivos (dataset podem ser baixados nesse link: https://github.com/alura-cursos/introducao-a-data-science/tree/aula0 "
+* Arquivos do projeto - "Os arquivos (dataset) podem ser baixados nesse link: https://github.com/alura-cursos/introducao-a-data-science/tree/aula0 "
 
 * Conhecendo nossos dados e o Pandas
 
