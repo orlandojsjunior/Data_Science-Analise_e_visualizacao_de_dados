@@ -26,11 +26,3 @@ Contando notas
 Faça como eu fiz na aula
 
 O que aprendemos?
-
-
-Dispersão de dados
-Conclusão
-Desvio padrão
-Faça como eu fiz na aula
-Projeto final
-O que aprendemos?
