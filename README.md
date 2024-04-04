@@ -10,18 +10,18 @@ Um dos focos será na utilização da biblioteca Pandas, uma das ferramentas mai
 
 **Data Science: dados e visualizações**
 
-Introdução
+* Introdução
 
-Preparando ambiente
+* Preparando ambiente
 
-Arquivos do projeto - "Os arquivos (dataset podem ser baixados nesse link: https://github.com/alura-cursos/introducao-a-data-science/tree/aula0 "
+* Arquivos do projeto - "Os arquivos (dataset podem ser baixados nesse link: https://github.com/alura-cursos/introducao-a-data-science/tree/aula0 "
 
-Conhecendo nossos dados e o Pandas
+* Conhecendo nossos dados e o Pandas
 
-Visualizando dados com histograma e boxplot
+* Visualizando dados com histograma e boxplot
 
-Contando notas
+* Contando notas
 
-Faça como eu fiz na aula
+* Faça como eu fiz na aula
 
-O que aprendemos?
+* O que aprendemos?
