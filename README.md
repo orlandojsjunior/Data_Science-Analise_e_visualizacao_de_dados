@@ -15,7 +15,7 @@ Um dos focos será na utilização da biblioteca Pandas, uma das ferramentas mai
 
 *Preparando ambiente
 
-*Arquivos do projeto
+*Arquivos do projeto (pode ser baixado nesse link: https://github.com/alura-cursos/introducao-a-data-science/archive/aula0.zip)
 
 *Conhecendo nossos dados e o Pandas
 
