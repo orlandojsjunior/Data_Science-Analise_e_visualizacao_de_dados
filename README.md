@@ -11,11 +11,11 @@ Um dos focos será na utilização da biblioteca Pandas, uma das ferramentas mai
 
 **Data Science: dados e visualizações**
 
-Introdução
-Preparando ambiente
-Arquivos do projeto
-Conhecendo nossos dados e o Pandas
-Visualizando dados com histograma e boxplot
-Contando notas
-Faça como eu fiz na aula
-O que aprendemos?
+*Introdução
+*Preparando ambiente
+*Arquivos do projeto
+*Conhecendo nossos dados e o Pandas
+*Visualizando dados com histograma e boxplot
+*Contando notas
+*Faça como eu fiz na aula
+*O que aprendemos?
