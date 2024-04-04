@@ -1,5 +1,4 @@
-# Data Science dados e visualizações
-**Data Science - Formação Alura**
+#Formação Data Science - dados e visualizações
 
 Dando mais um passo em busca do conhecimento na área e aprendendo sobre como os dados podem ser úteis para o trabalho do dia a dia e como extrair o máximo deste recurso!
 
