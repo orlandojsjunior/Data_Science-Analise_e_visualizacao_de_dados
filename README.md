@@ -23,6 +23,7 @@ Abaixo segue o detalhamento da formação:
 - Estatística com Python: probabilidade e amostragem
 
 
+ 
 **2 - Modelos de Data Science**
 
 Depois de aprender a analisar e explorar os dados do passado, que tal tentar tirar conclusões sobre o futuro?
@@ -45,6 +46,7 @@ Neste passo, você aprenderá a utilizar técnicas como Regressão Linear para d
 - Casos bacanas de Data Science – Hipsters #106
 
 
+
 **3 - Visualização de dados**
 
 Entender o "passado" e “prever o futuro” é algo incrível e sem dúvidas um dos principais papéis de uma pessoa cientista de dados, mas criar análises incríveis e modelos capazes de gerar projeções com exatidão não é condição suficiente para tirar seu projeto de ciência de dados do papel.
@@ -61,6 +63,7 @@ Uma boa análise e modelos precisos devem estar alinhados a uma comunicação as
 **ARTIGO**
 
 - Análise de dados: analisando minha distribuição com três alternativas de visualização - Blog da Alura
+
 
 
 **4 - Testes com Data Science**
@@ -86,6 +89,7 @@ Depois de aprender sobre testes, que tal estudar sobre experimentação? Afinal,
 **PODCAST**
 
 - Data Science, Engenharia, Design e Produto no Grupo Zap – Hipsters On The Road #08
+
 
 
 **5 - Aplicando Data Science**
