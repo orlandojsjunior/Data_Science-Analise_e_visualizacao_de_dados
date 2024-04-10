@@ -94,9 +94,9 @@ Depois de aprender sobre testes, que tal estudar sobre experimentação? Afinal,
 
 **5 - Aplicando Data Science**
 
-Para fechar nosso ciclo de aprendizado, que tal praticar os conhecimentos adquiridos em ciência de dados, analisando dados reais na área da saúde?
+Para fechar ciclo de aprendizado eu pratiquei os conhecimentos adquiridos em ciência de dados, analisando dados reais na área da saúde.
 
-Nesta parte da formação vamos relembrar alguns tópicos estudados até então, aplicando uma boa parte do que aprendemos na análise de dados reais da COVID-19.
+Nesta parte da formação eu usei alguns tópicos estudados até então, aplicando uma boa parte do que aprendemos na análise de dados reais da COVID-19.
 
 Praticando em um problema real e de grande impacto na sociedade!
 
