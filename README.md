@@ -42,7 +42,7 @@ Neste passo, você aprenderá a utilizar técnicas como Regressão Linear para d
 
 **PODCAST** 
 
-= Casos bacanas de Data Science – Hipsters #106
+- Casos bacanas de Data Science – Hipsters #106
 
 
 **3 - Visualização de dados**
