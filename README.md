@@ -4,7 +4,7 @@
 
 **1 - Começando com Data Science**
 
-Dando os seus primeiros passos na área, aprendendo sobre como os dados podem ser úteis para o nosso trabalho do dia a dia e como extrair o máximo deste recurso!
+Dando os meus primeiros passos na área, aprendendo sobre como os dados podem ser úteis para o nosso trabalho do dia a dia e como extrair o máximo deste recurso!
 
 Nesta primeira parte, aprendi como carregar um conjunto de dados do mundo real e realizar uma análise de dados de maneira exploratória, utilizando várias bibliotecas do Python, como a Seaborn, Matplotlib, SciPy e Pandas.
 
