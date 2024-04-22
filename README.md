@@ -18,7 +18,7 @@ Abaixo segue o detalhamento da formação:
 
 - Pandas: conhecendo a biblioteca - https://github.com/orlandojsjunior/Pandas_conhecendo_a_biblioteca
 
-- Estatística com Python: frequências e medidas
+- Estatística com Python: frequências e medidas - https://github.com/orlandojsjunior/Estatistica_com_Python_frequencias_e_medidas
 
 - Estatística com Python: probabilidade e amostragem
 
