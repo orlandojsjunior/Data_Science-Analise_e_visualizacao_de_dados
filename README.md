@@ -18,7 +18,7 @@ Este curso foi atualizado na nova Formação Data Science:
 
 
 
-### Pricipais topicos do curso
+### Principais tópicos do curso
 
 - Entre na área de ciência de dados (data science)
 - Explore dados com exploratory data analysis
